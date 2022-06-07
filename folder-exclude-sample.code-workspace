@@ -1,0 +1,21 @@
+{
+  "folders": [
+    {
+      "name": "Root",
+      "path": "."
+    },
+    {
+      "name": "Module-A",
+      "path": "packages/module-a"
+    },
+    {
+      "name": "Module-B",
+      "path": "packages/module-b"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "packages": true
+    }
+  }
+}
